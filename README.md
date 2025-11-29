@@ -9,7 +9,7 @@
 
 A modern, performant weather application built with React and Vite, showcasing clean architecture and contemporary development practices.
 
-[Live Demo](#) • [Report Bug](https://github.com/Karthikeyan-BE/Weather_MERN/issues) • [Request Feature](https://github.com/Karthikeyan-BE/Weather_MERN/issues)
+[Live Demo](#) • [Report Bug](https://github.com/Karthikeyan-BE/Weather/issues) • [Request Feature](https://github.com/Karthikeyan-BE/Weather/issues)
 
 </div>
 
@@ -133,7 +133,7 @@ Ensure you have the following installed:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Karthikeyan-BE/Weather_MERN.git
+git clone https://github.com/Karthikeyan-BE/Weather.git
 cd Weather_MERN
 ```
 
@@ -322,7 +322,7 @@ We welcome contributions! Follow these steps to contribute:
 #### 1. Fork & Clone
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Weather_MERN.git
+git clone https://github.com/YOUR_USERNAME/Weather.git
 cd Weather_MERN
 ```
 
